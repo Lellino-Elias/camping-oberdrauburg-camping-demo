@@ -192,8 +192,8 @@ const oberdrauburg: CampsiteConfig = {
   },
 
   kontakt: {
-    tel: "+43 (4710) 22 48",
-    telHref: "tel:+4347102248",
+    tel: "+43 4710 2249 22",
+    telHref: "tel:+434710224922",
     mail: "oberdrauburg.tourist@ktn.gde.at",
     adresse: "Unterberg 31 · 9781 Oberdrauburg · Kärnten",
     coords: { lat: 46.7405184, lng: 12.9725542 },

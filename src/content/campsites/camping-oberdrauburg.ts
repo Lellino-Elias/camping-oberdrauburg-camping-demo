@@ -17,7 +17,6 @@ const oberdrauburg: CampsiteConfig = {
   brandKind: "Natur- & Familiencamping",
   regionLong: "Oberes Drautal · Kärnten · Österreich",
 
-  theme: "editorial",
   heroVariant: "center",
 
   claim: "Familiencamping im Drautal — Erlebnisbad inklusive",
@@ -196,7 +195,7 @@ const oberdrauburg: CampsiteConfig = {
     telHref: "tel:+434710224922",
     mail: "oberdrauburg.tourist@ktn.gde.at",
     adresse: "Unterberg 31 · 9781 Oberdrauburg · Kärnten",
-    coords: { lat: 46.7405184, lng: 12.9725542 },
+    coords: { lat: 46.740443, lng: 12.971415 },
   },
 
   languages: ["DE"],
